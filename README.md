@@ -1,2 +1,2 @@
 # CapstoneQABot
-APP LINK: https://miami-delliotte-qabot.anvil.app
+APP LINK: https://miami-dirpa-qabot.anvil.app
